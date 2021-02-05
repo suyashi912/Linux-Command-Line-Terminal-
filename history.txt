@@ -1,0 +1,83 @@
+cat history.txt q w e 
+cat -n history.txt dwnefj
+pwd
+pwd -L
+pwd -P
+cd ~
+cd -L Desktop
+cd -L ~p
+cd -L ..
+cd -L ~p
+cd -P ..
+cd -P u
+cd -P ~p
+cd 
+cd -L ewfwf
+cd -P ewe
+cd -q
+exit
+pwd 
+cd ~
+cd -L Desktop
+cd -L u
+cd -L ~p
+pwd 
+pwd -L
+pwd -P
+cd -L ..
+cd 
+pwd -ed
+exit
+pwd -cfwe
+pwd -q
+pwd -q e r
+cd -edn sw
+cd -L ded
+cd -q w e 
+cd -aq
+pwd --help
+cd help
+cd --help
+history
+history -d 33
+history -d 10
+history -d 42
+mkdir -v w\ r
+mkdir -v q w e 
+mkdir -p e/t
+mkdir -v w\ r u
+mkdir -v b\ t l
+mkdir -q
+mkdir bfvjn de
+mkdir 12
+mkdir -v w
+mkdir -v x5
+mkdir -p q/w/e/r/t/y
+exit
+history
+history -d 59
+history -d 22
+history -d 12
+history -d 2
+history
+exit
+exit
+exit
+history 
+history -d 63
+mak
+make
+exit
+cd -P
+cd -P ..
+cd -P 
+exit
+cd -P 
+cd -L 
+ccd -P ewufhwef
+cd -P edhe
+exit
+exit
+history
+history -d 2
+exit
